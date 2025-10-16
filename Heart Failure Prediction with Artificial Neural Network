@@ -1,7 +1,0 @@
-# Heart Failure Prediction with Artificial Neural Network
-
-**Date:** Oct 2023  
-This project aims to predict the occurrence of heart failure using medical data and an Artificial Neural Network (ANN) model. The study analyzed health factors such as age, sex, cholesterol, chest pain type, blood pressure, fasting blood sugar, ECG results, maximum heart rate, and exercise angina to identify the most influential predictors of heart failure. Data from 918 individuals were preprocessed, analyzed, and split into training and testing sets before training the ANN model. The model achieved an accuracy of 85.87%, a recall of 90.01%, and a precision of 85.05%, showing strong potential in identifying individuals at risk of heart failure, especially among those aged 55–77 years. The ANN effectively demonstrated its ability to support early diagnosis, personalized healthcare planning, and further applications in medical prediction and classification tasks.
-
-[Poster](https://drive.google.com/file/d/1c0DQS4YlOWVUArAQHtXZGY2C5pUzyE5d/view?usp=share_link)  
-[Certificate](https://drive.google.com/file/d/11dPfYADvb6oMURVYkAOB67wvq_5RKLn1/view?usp=share_link)
