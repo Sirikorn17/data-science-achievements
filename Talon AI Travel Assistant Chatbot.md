@@ -5,4 +5,7 @@ Collaborated as a team to conceptualize **Talon**, an AI-powered travel assistan
 **Achievement:** Final Round *(SCI-SOFT Power Innovation Hackathon 2024)*  
 
 [Certificate](https://drive.google.com/file/d/13ZS7Bk8_a8t3PwLidxi4147MxQmsYzKU/view?usp=share_link)
+
 [Concept Presentation Video](https://youtu.be/-xYo_kfHu7U?si=ZH4Imf5REacR5SsB)
+
+[Pitch deck slide](https://development-slide.my.canva.site/pitch-deck-slide)
